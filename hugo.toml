@@ -27,7 +27,7 @@ style = "github-dark"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2025
 
   enableTwemoji = true
 
@@ -51,22 +51,22 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/thehaniak/"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa-brands fa-gitlab fa-2x"
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://gitlab.com/thehaniak/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa-brands fa-x-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/no-twitter/"
+  url = "https://linkedin.com/thehaniak/"
+
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "blog"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "about"
   weight = 2
   rl = "about/"
+[[menu.main]]
+  name = "contacts"
+  weight = 2
+  rl = "contacts/"
