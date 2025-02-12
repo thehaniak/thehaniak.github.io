@@ -1,14 +1,41 @@
 <!-- more info at https://formkeep.com/guides/contact-form-hugo -->
+
 {{ $id := default "exampletoken" (.Get 0) }}{{ $button_name := default "Submit" (.Get 1) }}{{ $redirect := .Get 2 }}
+
 <form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $id }}" method="POST">
   <input type="hidden" name="utf8" value="✓">
   {{ if $redirect }}
   <input type="hidden" name="_redirect_url" value="{{ $redirect }}">
   {{ end }}
-  <input type="email"  name="email" placeholder="your.email@example.com" required>
-  <br/><input type="text" name="name" placeholder="Your Name" required>
-  <br/>
-  <textarea rows="8" cols="50" required></textarea>
-  <br/>
-  <button type="submit">{{ $button_name }}</button>
+  <table cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td class="align-right-top">
+          <label for="email">Email:</label>
+        </td>
+        <td>
+          <input type="email"  name="email" placeholder="your.email@example.com" required>
+        </td>
+      </tr>
+      <tr>
+        <td class="align-right-top">
+          <label for="name">Name:</label>
+        </td>
+        <td>
+          <input type="text" name="name" placeholder="Your Name" required>
+        </td>
+      </tr>
+      <tr>
+        <td class="align-right-top">
+          <label for="name">Message:</label>
+        <td>
+          <textarea name="message" rows="8" cols="50" placeholder="Type your message here." required></textarea>
+        </td>
+      <tr >
+        <td colspan="2" class="align-center">
+          <button type="submit">{{ $button_name }}</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </form>
