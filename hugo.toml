@@ -21,7 +21,7 @@ style = "github-dark"
   description = "Haniak's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  gravatar = "myemailisnothere@not.here"
+  # gravatar = "images/avatar.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
