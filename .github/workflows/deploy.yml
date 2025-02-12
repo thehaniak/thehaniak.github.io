@@ -27,7 +27,7 @@ jobs:
           tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
 
       - name: Build Site
-        run: ${RUNNER_TEMP}/hugo
+        run: ${RUNNER_TEMP}/hugo --disableFastRender
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'

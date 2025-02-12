@@ -1,0 +1,14 @@
+input, textarea, button {
+    /* css 3 */
+    border-radius:6px;
+    /* mozilla */
+    -moz-border-radius:6px;
+    /* webkit */
+    -webkit-border-radius:6px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px;
+
+}

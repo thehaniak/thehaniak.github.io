@@ -17,7 +17,7 @@ style = "github-dark"
 
 [params]
   author = "Haniak"
-  info = "Linux and Open Source enthusiast"
+  info = "Just one more line of code..."
   description = "Haniak's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
@@ -34,7 +34,7 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
+  customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
@@ -54,19 +54,19 @@ style = "github-dark"
   name = "Linkedin"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://linkedin.com/thehaniak/"
+  url = "https://www.linkedin.com/in/maximianotome/"
 
 
 # Menu links
 [[menu.main]]
-  name = "blog"
+  name = "coding"
   weight = 1
-  url  = "posts/"
+  url  = "coding/"
 [[menu.main]]
   name = "about"
   weight = 2
-  rl = "about/"
+  url = "about/"
 [[menu.main]]
   name = "contacts"
-  weight = 2
-  rl = "contacts/"
+  weight = 3
+  url = "contacts/"
