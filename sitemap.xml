@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thehaniak.github.io/coding/</loc>
+    <lastmod>2025-02-11T18:06:22+00:00</lastmod>
+  </url><url>
     <loc>https://thehaniak.github.io/</loc>
     <lastmod>2025-02-11T18:06:22+00:00</lastmod>
   </url><url>
-    <loc>https://thehaniak.github.io/posts/my-first-post/</loc>
+    <loc>https://thehaniak.github.io/coding/coding/</loc>
     <lastmod>2025-02-11T18:06:22+00:00</lastmod>
   </url><url>
-    <loc>https://thehaniak.github.io/posts/</loc>
-    <lastmod>2025-02-11T18:06:22+00:00</lastmod>
+    <loc>https://thehaniak.github.io/about/</loc>
   </url><url>
     <loc>https://thehaniak.github.io/authors/</loc>
   </url><url>
     <loc>https://thehaniak.github.io/categories/</loc>
   </url><url>
+    <loc>https://thehaniak.github.io/contacts/</loc>
+  </url><url>
     <loc>https://thehaniak.github.io/series/</loc>
   </url><url>
     <loc>https://thehaniak.github.io/tags/</loc>
+  </url><url>
+    <loc>https://thehaniak.github.io/contacts-successful/</loc>
   </url>
 </urlset>
