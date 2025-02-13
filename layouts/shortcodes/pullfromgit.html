@@ -1,0 +1,10 @@
+{{ $u := (.Get 0) }}
+{{ with try (resources.GetRemote $u) }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else with .Value }}
+    {{ .Content | $.Page.RenderString }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource." }}
+{{ end }}
