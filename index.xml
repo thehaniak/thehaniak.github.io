@@ -13,28 +13,21 @@
       <link>https://thehaniak.github.io/snippets/coding/</link>
       <pubDate>Sat, 11 Jan 2025 18:06:22 +0000</pubDate>
       <guid>https://thehaniak.github.io/snippets/coding/</guid>
-      <description>&lt;p&gt;Hello Code!&#xA;Not that much too see here.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello Coder!&lt;/p&gt;&#xA;&lt;p&gt;Welcome to my humble life log.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll be posting my coding adventures here.&#xA;Stay tuned!&lt;/p&gt;&#xA;&lt;div class=&#34;date-footer&#34;&gt;&#xA;    Jan 11, 2025&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://thehaniak.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thehaniak.github.io/about/</guid>
-      <description>&lt;p&gt;I should write some more lines of code here&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hi-there-&#34;&gt;&#xA;  Hi there 👋&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hi-there-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a developer/sysadmin from Portugal, passionate about Open Source, coding and music/audio.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-im-looking-to-collaborate-on-&#34;&gt;&#xA;  👯 I’m looking to collaborate on &amp;hellip;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-im-looking-to-collaborate-on-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m always looking forward to collaborate on an interesting Open Source project.&#xA;Due to my interest in music/audio, I&amp;rsquo;m currently helping to translate &lt;a href=&#34;https://github.com/jmshrv/finamp&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Finamp&lt;/a&gt; to Portuguese (Portugal).&lt;/p&gt;&#xA;&lt;p&gt;But let me know if you need an extra brain to help on your project!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
       <link>https://thehaniak.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thehaniak.github.io/contact/</guid>
-      <description>&lt;form accept-charset=&#34;UTF-8&#34; action=&#34;https://formkeep.com/f/ba33da504fd9&#34; method=&#34;POST&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;utf8&#34; value=&#34;✓&#34;&gt;&#xA;  &#xA;  &lt;input type=&#34;hidden&#34; name=&#34;_redirect_url&#34; value=&#34;https://thehaniak.github.io/contact-successful&#34;&gt;&#xA;  &#xA;  &lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;&#xA;    &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;        &lt;td class=&#34;align-right-top&#34;&gt;&#xA;          &lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&#xA;        &lt;/td&gt;&#xA;        &lt;td&gt;&#xA;          &lt;input type=&#34;email&#34;  name=&#34;email&#34; placeholder=&#34;your.email@example.com&#34; required&gt;&#xA;        &lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;        &lt;td class=&#34;align-right-top&#34;&gt;&#xA;          &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;&#xA;        &lt;/td&gt;&#xA;        &lt;td&gt;&#xA;          &lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Your Name&#34; required&gt;&#xA;        &lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;        &lt;td class=&#34;align-right-top&#34;&gt;&#xA;          &lt;label for=&#34;name&#34;&gt;Message:&lt;/label&gt;&#xA;        &lt;td&gt;&#xA;          &lt;textarea name=&#34;message&#34; rows=&#34;8&#34; cols=&#34;50&#34; placeholder=&#34;Type your message here.&#34; required&gt;&lt;/textarea&gt;&#xA;        &lt;/td&gt;&#xA;      &lt;tr &gt;&#xA;        &lt;td colspan=&#34;2&#34; class=&#34;align-center&#34;&gt;&#xA;          &lt;button type=&#34;submit&#34;&gt;Submit Code&lt;/button&gt;&#xA;        &lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/form&gt;</description>
-    </item>
-    <item>
-      <title>Thank you for your message!</title>
-      <link>https://thehaniak.github.io/contact-successful/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thehaniak.github.io/contact-successful/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll reply as soon as The Code allows me&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Send an email to:&#xA;&lt;strong&gt;thehaniak @ gmail . com&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
