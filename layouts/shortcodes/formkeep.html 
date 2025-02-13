@@ -1,5 +1,3 @@
-<!-- more info at https://formkeep.com/guides/contact-form-hugo -->
-
 {{ $id := default "exampletoken" (.Get 0) }}{{ $button_name := default "Submit" (.Get 1) }}{{ $redirect := .Get 2 }}
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $id }}" method="POST">
@@ -10,7 +8,7 @@
   <table cellspacing="0" cellpadding="0">
     <tbody>
       <tr>
-        <td class="align-right-top">
+        <td class="align-right">
           <label for="email">Email:</label>
         </td>
         <td>
@@ -18,7 +16,7 @@
         </td>
       </tr>
       <tr>
-        <td class="align-right-top">
+        <td class="align-right">
           <label for="name">Name:</label>
         </td>
         <td>
@@ -26,7 +24,7 @@
         </td>
       </tr>
       <tr>
-        <td class="align-right-top">
+        <td class="align-right">
           <label for="name">Message:</label>
         <td>
           <textarea name="message" rows="8" cols="50" placeholder="Type your message here." required></textarea>

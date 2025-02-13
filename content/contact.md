@@ -2,4 +2,5 @@
 title = 'Contact'
 +++
 
-{{< formkeep ba33da504fd9 "Submit Code" "https://thehaniak.github.io/contact-successful" >}}
+Send an email to:
+**thehaniak @ gmail . com**

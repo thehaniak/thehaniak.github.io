@@ -15,6 +15,9 @@ shortname = "yourdiscussshortname"
 [markup.highlight]
 style = "github-dark"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   author = "Haniak"
   info = "I'm just another line of code..."
@@ -37,6 +40,8 @@ style = "github-dark"
   customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
+
+  dateFormat = "January 2, 2006"
 
 [taxonomies]
   category = "categories"

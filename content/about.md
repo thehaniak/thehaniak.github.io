@@ -2,4 +2,4 @@
 title = 'About'
 +++
 
-I should write some more lines of code here...
+{{< pullfromgit "https://raw.githubusercontent.com/thehaniak/thehaniak/master/README.md" >}}

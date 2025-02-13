@@ -6,6 +6,7 @@ input, textarea, button {
     /* webkit */
     -webkit-border-radius:6px;
     padding: 5px;
+    border: none !important;
 }
 
 button {
@@ -15,14 +16,19 @@ button {
 
 td, table {
     border: none !important;
-    padding: 0px;
-    vertical-align: top;
+    padding: 10px !important;
+    vertical-align: top !important;
 }
 
-.align-right-top {
+.align-right {
     text-align: right;
 }
 
 .align-center {
     text-align: center;
+}
+
+.date-footer {
+    width: 100%;
+    text-align: right;
 }
