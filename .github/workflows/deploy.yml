@@ -24,7 +24,7 @@ jobs:
 
       - name: Remove old build files
         run: |
-          rm ${GITHUB_WORKSPACE}/built-site/*
+          rm -rf ${GITHUB_WORKSPACE}/built-site/*
 
       - name: Setup Hugo
         run: |
