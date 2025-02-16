@@ -22,6 +22,10 @@ jobs:
           ref: gh-pages
           path: built-site
 
+      - name: Remove old build files
+        run: |
+          rm ${GITHUB_WORKSPACE}/built-site/*
+
       - name: Setup Hugo
         run: |
           curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.143.1/hugo_extended_0.143.1_linux-amd64.tar.gz'
