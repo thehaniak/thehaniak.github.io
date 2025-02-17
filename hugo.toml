@@ -1,5 +1,5 @@
 baseurl = "https://thehaniak.github.io"
-title = "Haniak"
+title = "Max Tomé"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -19,7 +19,7 @@ style = "github-dark"
   unsafe = true
 
 [params]
-  author = "Haniak"
+  author = "Max Tomé"
   info = "I'm just another line of code..."
   description = "Haniak's personal website"
   keywords = "blog,developer,personal"
