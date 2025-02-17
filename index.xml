@@ -6,14 +6,21 @@
     <description>Recent content on Haniak</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Feb 2025 08:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 11:31:27 +0000</lastBuildDate>
     <atom:link href="https://thehaniak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fail2ban Hourly Email Update</title>
+      <link>https://thehaniak.github.io/snippets/fail2ban-hourly-email-update/</link>
+      <pubDate>Mon, 17 Feb 2025 11:31:27 +0000</pubDate>
+      <guid>https://thehaniak.github.io/snippets/fail2ban-hourly-email-update/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on a solution to ban web crawlers from the constant port sniffing to my self hosted web services.&#xA;So I started using Fail2ban, which is a great tool for these specific scenarios.&lt;/p&gt;&#xA;&lt;p&gt;At first, I set up an instant email notification, but after a day I got way too much emails to handle - kept receiving about 5 to 10 emails per hour!! (Damn you hackers!! :smile: ).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Multiple Screens on Linux Using Wavlink USB</title>
       <link>https://thehaniak.github.io/snippets/multiple-screens-linux/</link>
       <pubDate>Sun, 16 Feb 2025 08:52:21 +0000</pubDate>
       <guid>https://thehaniak.github.io/snippets/multiple-screens-linux/</guid>
-      <description>&lt;h1 id=&#34;multiple-screens-on-ubuntu-and-fedora-using-wavlink-wl-ug6902h&#34;&gt;&#xA;  Multiple screens on Ubuntu and Fedora using Wavlink WL-UG6902H&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#multiple-screens-on-ubuntu-and-fedora-using-wavlink-wl-ug6902h&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;intro&#34;&gt;&#xA;  Intro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#intro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;These are the steps to make the Wavlink WL-UG6902H USB to HDMI adapter work on Ubuntu and Fedora Linux.&#xA;It&amp;rsquo;s a rather simple and straight forward process.&#xA;The tricky part was figuring out that it needs the SMI USB driver (Silicon Motion) &lt;strong&gt;and&lt;/strong&gt; the Displaylink driver (Synaptics).&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;&#xA;  Intro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#intro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;These are the steps to make the Wavlink WL-UG6902H USB to HDMI adapter work on Ubuntu and Fedora Linux.&#xA;It&amp;rsquo;s a rather simple and straight forward process.&#xA;The tricky part was figuring out that it needs the SMI USB driver (Silicon Motion) &lt;strong&gt;and&lt;/strong&gt; the Displaylink driver (Synaptics).&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re here for the Fedora installation, head to my repo &lt;a href=&#34;https://github.com/thehaniak/wavlink-fedora&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;weblink-fedora&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wavlink-wl-ug6902h&#34;&gt;&#xA;  Wavlink WL-UG6902H&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#wavlink-wl-ug6902h&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.wavlink.com/en_us/product/WL-UG6902H.html&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wavlink.com/en_us/product/WL-UG6902H.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Coding Begins...</title>
